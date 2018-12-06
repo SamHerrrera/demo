@@ -8,9 +8,15 @@
           "name": "Consultor",
           "total": 300,
           "unitPrice": 300,
-          "quantity": 2
+          "quantity": 1
         } 
-      ] 
+      ],
+      "references":[
+        {
+          "name": "Teléfono", //nombre del campo
+          "value": "614 240 22 51", //valor asignado
+        }
+      ]
     }  
   ]  
   
