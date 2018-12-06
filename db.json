@@ -13,8 +13,8 @@
       ],
       "references":[
         {
-          "name": "Teléfono", //nombre del campo
-          "value": "614 240 22 51", //valor asignado
+          "name": "Teléfono", 
+          "value": "614 240 22 51"
         }
       ]
     }  
